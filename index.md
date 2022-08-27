@@ -8,10 +8,7 @@
 1. Numbered
 2. List
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ## About me
 
-Check out my [personal website] I created using mantine dev
+Check out my [personal website](https://www.youtube.com/watch?v=dQw4w9WgXcQ) I created using mantine dev
 
